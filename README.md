@@ -482,6 +482,7 @@ Computer Science / Artificial Intelligence Student
 ---
 
 ## ⭐ Conclusion
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17qdqTtdInUpZSTbkBZy_j5qbsCCut5Dm?usp=sharing)
 
 This project demonstrates a complete **Retrieval-Augmented Generation pipeline** that combines document processing, semantic embeddings, vector search, and Large Language Models.
 
